@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 class ChannelException(Exception):
 	def __init__(self, error_msg, error_code):
